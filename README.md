@@ -1,7 +1,6 @@
 -  👽 Olá! Me chamo Breno Alves.
  - 👨‍🎓 Faço faculdade de Analese e desenvolvimento de sistemas.
  - 🤖 É atualmente estou aprendendo Javascript, css, html, git é github. 
- - 🐱‍👤 Afortunado, descobridor de pistas é montador de barril
 
 <div align="center">
   <a href="https://github.com/breno-alv">
