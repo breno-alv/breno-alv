@@ -1,5 +1,5 @@
 -  👽 Olá! Me chamo Breno Alves.
- - 👨‍🎓 Faço faculdade de Analese e desenvolvimento de sistemas.
+ - 👨‍🎓 Faço faculdade de Analise e desenvolvimento de sistemas.
  - 🤖 É atualmente estou aprendendo Javascript, css, html, git é github. 
 
 <div align="center">
