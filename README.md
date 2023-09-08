@@ -1,5 +1,5 @@
 -  👽 Olá! Me chamo Breno Alves.
- - 👨‍🎓 Faço faculdade de Analise e desenvolvimento de sistemas.
+ - 👨‍🎓 Sou formado em Analise e desenvolvimento de sistemas na Universidade Estácio de sá.
  - 🤖 É atualmente estou aprendendo PHP, Javascript, css, html, git é github. 
 
 <div align="center">
